@@ -4,6 +4,8 @@ Laravel Scout + TNT Search
 This is really simple full text search integrating with Laravel Scout + TNT Search + Vuejs.
 
 ----------
+**Step.0**
+Edit .env file with your credentials.
 
 **Step.1**
 Migrate database.
